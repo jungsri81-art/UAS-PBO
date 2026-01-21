@@ -65,10 +65,15 @@ UAS-PBO/
 └── README.MD
 
 ## 📸 Tampilan Aplikasi
-![alt text](<Screenshot 2026-01-21 152144.png>)
+
+### ✅ Form Input & Tabel Belanja
+![Form Belanja](image/Screenshot1.png)
+
 ### ✅ Pop-up Tambah Data
-![alt text](<Screenshot 2026-01-21 145859.png>)
+![Tambah Data](image/Screenshot2.png)
+
 ### ✅ Pop-up Update Data
-![alt text](<Screenshot 2026-01-21 153707.png>)
+![Update Data](image/Screenshot3.png)
+
 ### ✅ Pop-up Hapus Data
-![alt text](<Screenshot 2026-01-21 155245.png>)
+![Hapus Data](image/Screenshot4.png)
